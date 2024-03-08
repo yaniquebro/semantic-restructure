@@ -1,3 +1,4 @@
+/* generall styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* header and navigation styling */
 
 header {
     padding: 20px;
@@ -75,6 +77,8 @@ p {
     margin-left: 20px;
 }
 
+/* benefits */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +106,8 @@ p {
     max-width: 150px;
 }
 
+/*seo styling*/
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,6 +127,7 @@ p {
 }
 
 /*footer styling*/
+
 footer {
     padding: 30px;
     clear: both;
