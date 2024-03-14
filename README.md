@@ -10,6 +10,7 @@ Horiseon webpage with a lage hero banner. The navigation bar located at the top 
 
 ## Deployed Page
 Link: https://yaniquebro.github.io/semantic-restructure/
+
 Screenshot:<img width="781" alt="Screenshot 2024-03-14 at 5 26 22 AM" src="https://github.com/yaniquebro/semantic-restructure/assets/158354516/e3806c93-6051-43e4-81ab-f4f7dbe3066b">
 
 
