@@ -1,11 +1,26 @@
-# Horiseon Challenge 1
-## Content
-1. Project Description
-2. Deployed Page
+# Horiseon Challenge 
 
 ## Project Description
 Horiseon webpage with a lage hero banner. The navigation bar located at the top will direct you to the three main sections. Semantic elements and alt attributes were added to increase accesibility.
 
+## Content
+1. Deployed Page
+2. Refactor Comments
+3. Contributions
+
 ## Deployed Page
-Link:
+Link: https://yaniquebro.github.io/semantic-restructure/
 Screenshot:
+
+## Refactor Comments
+* Added comments to index.html and style.css files
+* Refactored index.html to replace div with semantic elements
+* Consollidated css styles
+* Fixed broken navigation link
+* Added web page title
+* Added alt attributes to the images
+
+## Contributions 
+* Horiseon page created by UCF Boot Camp
+* assistance from J.K., and Stanly
+* Refactoring by Yanique Brooks
