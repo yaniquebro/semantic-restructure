@@ -24,5 +24,5 @@ Screenshot:<img width="781" alt="Screenshot 2024-03-14 at 5 26 22 AM" src="htt
 
 ## Contributions 
 * Horiseon page created by UCF Boot Camp
-* assistance from J.K., and Stanly
+* Assistance from J.K. figuring out how to consollidate, and Stanly who assisted me in restarting due to a huge issue I was facing 
 * Refactoring by Yanique Brooks
